@@ -1,0 +1,27 @@
+.sidebar {
+  width: 200px;
+  background-color: #222;
+  padding: 15px;
+}
+
+.custom-calendar-container {
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.custom-calendar-navigation {
+  background-color: #000;
+  color: #fff;
+  font-size: 18px;
+}
+
+.custom-calendar-tile {
+  background-color: #111;
+  color: #fff;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
